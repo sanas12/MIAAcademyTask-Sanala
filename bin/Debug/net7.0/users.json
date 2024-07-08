@@ -1,0 +1,47 @@
+﻿{
+  "users": [
+    {
+      "parentFirstName": "Sowmya",
+      "parentLastName": "Sanala",
+      "parentEmail": "sowsana@example.com",
+      "parentPhone": "1234567890",
+      "parentFirstName1": "Sowmya1",
+      "parentLastName1": "Sanala1",
+      "parentEmail1": "sowsana1@example.com",
+      "parentPhone1": "1234567890",
+      "date": "25-Jul-2024"
+
+    }
+
+  ],
+
+  "users1": [
+    {
+      "parentFirstName": "John",
+      "parentLastName": "Doe",
+      "parentEmail": "johndoe@example.com",
+      "parentPhone": "9876543210",
+      "parentFirstName1": "John1",
+      "parentLastName1": "Doe1",
+      "parentEmail1": "johndoe1@example.com",
+      "parentPhone1": "9876543211",
+      "date": "26-Aug-2024"
+    }
+  ],
+
+    "users2": [
+
+      {
+        "parentLastName": "Doe",
+        "parentEmail": "johndoe@example.com",
+        "parentPhone": "eeee",
+        "parentFirstName1": "John1",
+        "parentLastName1": "Doe1",
+        "parentEmail1": "johndoe1@example.com",
+        "parentPhone1": "9876543211",
+        "date": "26-Aug-2024"
+      }
+
+
+    ]
+}

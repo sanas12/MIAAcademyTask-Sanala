@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB9-8B4A-11D0-8D11-00A0C91BC942}") = "RazorEngine", "RazorEngine.dll", "{B911A6C5-5D76-4D7A-A07A-BE9C80465557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B911A6C5-5D76-4D7A-A07A-BE9C80465557}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{B911A6C5-5D76-4D7A-A07A-BE9C80465557}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACDE743A-066B-4736-A5E4-6FB53A8F06F5}
+	EndGlobalSection
+EndGlobal
