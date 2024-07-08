@@ -42,13 +42,11 @@
     <None Remove="Source\Pages\" />
     <None Remove="Utilities\" />
     <None Remove="BaseTest\" />
-    <None Remove="Tests\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Source\Pages\" />
     <Folder Include="Utilities\" />
     <Folder Include="BaseTest\" />
-    <Folder Include="Tests\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="users.json">

@@ -17,7 +17,6 @@ namespace MiaAcademyAutomation.Tests
 
         [Test, Category("Smoke testing")]
         [Ignore("Ignore a test")]
-        [Order(6)]
         [Description("Verify clicking Mia Prep link on the Home Page.")]
         public void HomePageTest()
         {
@@ -41,7 +40,6 @@ namespace MiaAcademyAutomation.Tests
 
         [Test, Category("Integration testing")]
         [Ignore("Ignore a test")]
-        [Order(10)]
         [Description("Verify clicking Apply to Our School link on the Result Page.")]
         public void SecPageTest1()
         {
@@ -66,7 +64,6 @@ namespace MiaAcademyAutomation.Tests
 
         [Test, Category("Smoke testing")]
         [Ignore("Ignore a test")]
-        [Order(5)]
         [Description("Verify Parent Info Page view with valid data (users1).")]
         public void ParentInfoPageTest()
         {
@@ -96,7 +93,6 @@ namespace MiaAcademyAutomation.Tests
         }
 
         [Test, Category("Regression testing")]
-        [Order(1)]
         [Description("Verify Parent Info Page view with regression testing using valid data (users1).")]
         public void AllTest()
         {

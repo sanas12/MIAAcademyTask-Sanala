@@ -1,4 +1,5 @@
 ﻿{
+  // Conatins Valid test data
   "users": [
     {
       "parentFirstName": "Sowmya",
@@ -29,19 +30,21 @@
     }
   ],
 
-    "users2": [
+  //Conatins invalid test data field
 
-      {
-        "parentLastName": "Doe",
-        "parentEmail": "johndoe@example.com",
-        "parentPhone": "eeee",
-        "parentFirstName1": "John1",
-        "parentLastName1": "Doe1",
-        "parentEmail1": "johndoe1@example.com",
-        "parentPhone1": "9876543211",
-        "date": "26-Aug-2024"
-      }
+  "users2": [
+
+    {
+      "parentLastName": "Doe",
+      "parentEmail": "johndoe@example.com",
+      "parentPhone": "eeee",
+      "parentFirstName1": "John1",
+      "parentLastName1": "Doe1",
+      "parentEmail1": "johndoe1@example.com",
+      "parentPhone1": "9876543211",
+      "date": "26-Aug-2024"
+    }
 
 
-    ]
+  ]
 }

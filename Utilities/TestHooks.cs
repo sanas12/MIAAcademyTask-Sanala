@@ -18,12 +18,12 @@ namespace MiaAcademyAutomation.Utilities
         [OneTimeSetUp]
         public void OneTimeSetUp()
         {
-            Console.WriteLine("I am inside onetime setup extentreports log.");
+            Console.WriteLine("I am inside logs.");
 
-            // Specify the path for the report
-            string reportPath = "../../../report.html";
+            // path for the report
+            string reportPath = "../../../index.html";
 
-            // Create the ExtentHtmlReporter object and configure it to append to existing report
+            // Create the ExtentHtmlReporter object 
             htmlReporter = new ExtentHtmlReporter(reportPath);
             htmlReporter.Config.DocumentTitle = "Automation Test Report";
             htmlReporter.Config.ReportName = "Automation Test Report";
@@ -40,6 +40,8 @@ namespace MiaAcademyAutomation.Utilities
         {
             extent.Flush();
         }
+
+        //Driver configuration
 
         [SetUp]
         public void Setup()
