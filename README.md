@@ -57,7 +57,7 @@ MiaAcademyAutomation/
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/sanas12/MiaAcademyAutomation.git
+    git clone https://github.com/sanas12/MiaAcademyTask-Sanala.git
     cd MiaAcademyAutomation
     ```
 
